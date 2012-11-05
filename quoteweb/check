@@ -1,0 +1,6 @@
+import os
+import sys
+
+import check.py
+
+print __file__
